@@ -14,6 +14,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin1927&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ashwin1927&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwin1927&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -60,6 +62,16 @@
   </a>
   <a href="https://www.youtube.com/@AshwinMathewAnil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/5be6u2jfgi8p3cwl651t124p1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5be6u2jfgi8p3cwl651t124p1&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
